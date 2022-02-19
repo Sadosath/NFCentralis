@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "676403472174",
+    "project_id": "nfcentralis",
+    "storage_bucket": "nfcentralis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676403472174:android:b36cde6c9173e4e7c5bcbf",
+        "android_client_info": {
+          "package_name": "com.example.nfcentralis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676403472174-o35pf6v8h9ijsmbo38gg8lnddeb1op36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpdI4EZS7ghSITZnB4pXN5AEwUVIfx3wE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676403472174-o35pf6v8h9ijsmbo38gg8lnddeb1op36.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
